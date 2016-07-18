@@ -1,4 +1,4 @@
-# PLots
+Some information about the PLots:
 The plot 'Physical_health_vs_sleep' shows boxplots of distribution of number of days when a person's physical health was not good over the numbers of everyday sleep he/she has.
 Question 1: Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good? 
 Question 2:  On average, how many hours of sleep do you get in a 24-hour period? 
